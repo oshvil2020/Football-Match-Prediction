@@ -1,6 +1,6 @@
 # Football-Match-Prediction
 
-Descriptive columns
+##Descriptive columns
 
 target - The variable you have to predict the probabilities only available in the train set.
 
@@ -21,7 +21,7 @@ home_team_coach_id - The id of the Home team coach.
 away_team_coach_id - The id of the Away team coach.
 
 
-Historical home team features
+##Historical home team features
 
 home_team_history_matchdate{i} - The date of the last i-th match played by Home team.
 
@@ -42,7 +42,7 @@ home_team_historycoach{i} - The coach id of the Home team on its last i-th match
 home_team_history_leagueid{i} - The league name id by the Home team on its last i-th match.
 
 
-Historical away team features
+##Historical away team features
 
 away_team_history_matchdate{i} - The date of the last i-th match played by Away team.
 
